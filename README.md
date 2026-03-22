@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Microservices Architecture
 - 👯 I’m looking to collaborate on Open Source Full Stack and AI Projects.
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
