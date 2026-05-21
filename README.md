@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anudeshya Saxena</h1>
-<h3 align="center">Full Stack Developer • Generative AI Engineer • MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer • AI&ML Engineer • MERN Stack Developer</h3>
 
 <p align="center">
   Building AI-powered real-world applications using MERN, RAG, Agentic AI, Computer Vision & LLMs.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Generative+AI+Engineer;MERN+Stack+Developer;Computer+Vision+Developer;Building+AI+Products+for+Real+World+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+&+Engineer;MERN+Stack+Developer;Computer+Vision+Developer;Building+AI+Products+for+Real+World+Problems" />
 </p>
 
 ---
