@@ -42,12 +42,10 @@
 -  MERN Stack + Generative AI Developer
 -  Passionate about LLMs, NLP, Computer Vision & AI Automation
 -  Developed projects in:
-  - Legal AI
-  - Medical AI
-  - AI Code Review
+  - Legal and Medical  AI
+  - AI Code Review & Stock Analytics
   - Image Intelligence
-  - Stock Analytics
-  - Real-time Chat Applications
+  -Real-time Chat Applications
 -  Goal: Build impactful AI products used by millions
 
 ---
