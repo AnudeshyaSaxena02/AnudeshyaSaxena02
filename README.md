@@ -158,7 +158,11 @@ Learning:
 Goal:
   - Build impactful AI products for real-world users
 ```
+# 🐍Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnudeshyaSaxena02/AnudeshyaSaxena02/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 ---
 
 # Connect With Me
