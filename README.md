@@ -37,11 +37,11 @@
 
 # About Me
 
-- 🔭 Currently building AI-powered full stack applications
-- 🌱 Exploring Agentic AI, Multi-Agent Systems & Advanced RAG
-- 💻 MERN Stack + Generative AI Developer
-- 🧠 Passionate about LLMs, NLP, Computer Vision & AI Automation
-- ⚡ Developed projects in:
+-  Currently building AI-powered full stack applications
+-  Exploring Agentic AI, Multi-Agent Systems & Advanced RAG
+-  MERN Stack + Generative AI Developer
+-  Passionate about LLMs, NLP, Computer Vision & AI Automation
+-  Developed projects in:
   - Legal AI
   - Medical AI
   - AI Code Review
@@ -158,7 +158,7 @@ Learning:
 Goal:
   - Build impactful AI products for real-world users
 ```
-# 🐍Contribution Snake
+# Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnudeshyaSaxena02/AnudeshyaSaxena02/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
