@@ -193,11 +193,11 @@ Goal:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.instagram.com/anudeshya02_03/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://anudeshyaportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
