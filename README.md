@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+&+Engineer;MERN+Stack+Developer;Computer+Vision+Developer;Building+AI+Products+for+Real+World+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%26ML+Engineer;MERN+Stack+Developer;Computer+Vision+Developer;Building+AI+Products+for+Real+World+Problems" />
 </p>
 
 ---
