@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anudeshya Saxena</h1>
+<h1 align="center">Hi, I'm Anudeshya Saxena</h1>
 <h3 align="center">Full Stack Developer • AI&ML Engineer • MERN Stack Developer</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - 🔭 Currently building AI-powered full stack applications
 - 🌱 Exploring Agentic AI, Multi-Agent Systems & Advanced RAG
@@ -52,9 +52,9 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 🚀 Languages
+## Languages
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌐 Frontend Development
+## Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -79,7 +79,7 @@
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🧠 AI / ML / GenAI
+## AI / ML / GenAI
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -104,7 +104,7 @@
 
 ---
 
-## 🗄️ Databases & Tools
+## Databases & Tools
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
@@ -117,7 +117,7 @@
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -132,25 +132,33 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnudeshyaSaxena02&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnudeshyaSaxena02&theme=tokyonight&hide_border=true" width="49%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AnudeshyaSaxena02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=AnudeshyaSaxena02&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnudeshyaSaxena02&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnudeshyaSaxena02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnudeshyaSaxena02&theme=tokyo-night&hide_border=true"/>
@@ -158,7 +166,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnudeshyaSaxena02&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -166,7 +174,7 @@
 
 ---
 
-# 🔥 Current Focus
+# Current Focus
 
 ```yaml
 Building:
@@ -186,7 +194,7 @@ Goal:
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anudeshya-saxena-3aba49295/">
